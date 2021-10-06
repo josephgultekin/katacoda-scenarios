@@ -1,0 +1,9 @@
+#Ignore Node
+node_modules/
+
+# MacOS Directory Store
+.DS_Store
+.DS_Store/*
+
+# Ignore Visual Studio workspace files
+*code-workspace
