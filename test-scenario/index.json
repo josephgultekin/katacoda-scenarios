@@ -1,6 +1,6 @@
 {
   "title": "Test Scenario",
-  "description": "Test",
+  "description": "Test Scenario Description",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -18,7 +18,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "python:3.8"
